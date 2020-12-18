@@ -12,9 +12,6 @@ html {
 h1 {
 	font-family: cambria;
 	color: #fff3ec;
-	  position: fixed;
-  left: 270px;
-  top: 120px;
 
 }
 
@@ -25,7 +22,7 @@ h1 {
  }
 
 .buffer {
-	height: 350px;
+	height: 300px;
 }
 
 
